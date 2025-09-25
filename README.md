@@ -14,8 +14,8 @@ This project presents a Power BI dashboard analyzing the impact of social media 
 
 ---
 
-## 📸 Dashboard Preview
-![Dashboard Preview](`dashboard_preview.png`)
+## 📸 Dashboard 
+![Dashboard Preview](`Impact of Social Media on Academic Performance.pbix`)
 
 ---
 
