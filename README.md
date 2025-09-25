@@ -15,21 +15,7 @@ This project presents a Power BI dashboard analyzing the impact of social media 
 ---
 
 ## 📸 Dashboard 
-You can find my Power BI dashboard in the file (`Impact of Social Media on Academic Performance.pbix`) uploaded in this repo
-
----
-
-## 📑 Data Collection
-- **Survey Design**: Questions adapted from validated scales on social media addiction, such as the Bergen Social Media Addiction Scale.  
-- **Recruitment**: Participants were recruited through university mailing lists and social media platforms to ensure diversity.  
-- **Anonymization**: No personally identifiable information was collected; data was anonymized during collection.  
-
----
-
-## ⚠️ Limitations
-- **Self-Report Bias**: Responses may not be fully reliable due to social pressure and social desirability effects.  
-- **Cross-Sectional Design**: A one-time survey limits the ability to establish causation.  
-- **Sample Not Representative**: The study may not represent the general population, particularly individuals with limited internet access.  
+You can find my Power BI dashboard in the file (`Impact of Social Media on Academic Performance.pbix`) uploaded in this repo 
 
 ---
 
@@ -68,4 +54,25 @@ You can find my Power BI dashboard in the file (`Impact of Social Media on Acade
 ## 📈 Results
 - Although social media consumption shows a **negative effect on academic performance**, the **average mental health score** remains positive at **6.23** (scale: 0 = poor, 10 = excellent).  
 - **64% of participants** reported being affected by social media in their studies.  
-- **Instagram, Facebook, and TikTok** are the preferred platforms, suggesting a need for greater time management and usage supervision.  
+- **Instagram, Facebook, and TikTok** are the preferred platforms, suggesting a need for greater time management and usage supervision.
+  
+---
+
+## 📑 Data Collection
+- **Survey Design**: Questions adapted from validated scales on social media addiction, such as the Bergen Social Media Addiction Scale.  
+- **Recruitment**: Participants were recruited through university mailing lists and social media platforms to ensure diversity.  
+- **Anonymization**: No personally identifiable information was collected; data was anonymized during collection.  
+
+---
+
+## ⚠️ Limitations
+- **Self-Report Bias**: Responses may not be fully reliable due to social pressure and social desirability effects.  
+- **Cross-Sectional Design**: A one-time survey limits the ability to establish causation.  
+- **Sample Not Representative**: The study may not represent the general population, particularly individuals with limited internet access.
+
+---
+
+## 👤 Contact
+**Author:** Gerardo Abarca  
+📧 abarcagerardoj777@gmail.com 
+💼 https://www.linkedin.com/in/gerardo-abarca-2389b6328/
